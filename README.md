@@ -1,2 +1,2 @@
-# Template-apresenta-o-pessoal
+# Template-apresentação-pessoal
 Template simples para apresentação pessoal feito com Bulma
